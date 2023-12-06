@@ -4,8 +4,8 @@
   * [NSQ](https://nsq.io/overview/quick_start.html)
 
 2. Build and run
-  * cd to `producer-1` folder
-  * run following command to start:
+  * cd to `producer-1` or `consumer-1` folder
+  * run following command to start for each producer or consumer:
     ```
         go run main.go --debug              -> run 
     ```
